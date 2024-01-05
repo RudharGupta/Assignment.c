@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
-#define n 6
+#define 
 int main(){
     int arr[n] = {9, 8, 7, 2, 4, 3};
     int temp;
